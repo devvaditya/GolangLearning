@@ -1,5 +1,7 @@
 # Golang Tutorials
 
+
+https://go.dev/learn/
 ### Getting Started
 
 + [Golang Installation, Setup, GOPATH, and Go Workspace](https://www.callicoder.com/golang-installation-setup-gopath-workspace/)
